@@ -521,6 +521,55 @@
     transform: translateY(-5px);
 }
 
+/* =========================
+   Tablet (768px and below)
+========================= */
+@media (max-width: 768px) {
+    #packageTabs {
+        gap: 10px;
+    }
+
+    #packageTabs .nav-link {
+        font-size: 1.1rem;
+        padding: 10px 22px;
+        margin: 0 6px;
+    }
+}
+
+
+/* =========================
+   Mobile (576px and below)
+========================= */
+@media (max-width: 576px) {
+
+    #packageTabs {
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    #packageTabs .nav-link {
+        font-size: 1rem;
+        padding: 8px 18px;
+        margin: 4px;
+    }
+
+    #packageTabs .nav-link:hover {
+        transform: translateY(-2px);
+    }
+}
+
+/* 
+   Small Phones (400px and below)
+ */
+@media (max-width: 400px) {
+
+    #packageTabs .nav-link {
+        font-size: 0.9rem;
+        padding: 8px 14px;
+        margin: 3px;
+    }
+}
+
 
 @media screen and (max-width: 1200px) {
     .counter-facts .counter { margin-bottom: 40px; 
