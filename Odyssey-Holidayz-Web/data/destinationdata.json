@@ -1,0 +1,332 @@
+[
+  {
+    "title": "Anuradhapura",
+    "img": "img/alldestinations/Anuradhapura.jpg",
+    "category": "cultural spiritual",
+    "desc": "Ancient capital with sacred stupas and ruins"
+  },
+  {
+    "title": "Polonnaruwa",
+    "img": "img/alldestinations/Polonnaruwa.jpg",
+    "category": "cultural spiritual",
+    "desc": "Medieval kingdom and UNESCO heritage site"
+  },
+  {
+    "title": "Nuwara Eliya",
+    "img": "img/alldestinations/NuwaraEliya.jpg",
+    "category": "hillcountries",
+    "desc": "Tea plantations and cool climate escapes"
+  },
+  {
+    "title": "Mirissa",
+    "img": "img/alldestinations/mirissa.jpg",
+    "category": "southern",
+    "desc": "Golden beaches & whale watching"
+  },
+  {
+    "title": "Galle",
+    "img": "img/alldestinations/galle.jpg",
+    "category": "southern",
+    "desc": "Historic fort and beautiful coastline"
+  },
+  {
+    "title": "Yala National Park",
+    "img": "img/alldestinations/yala.jpg",
+    "category": "wildlife",
+    "desc": "Famous for leopards, elephants and diverse wildlife"
+  },
+  {
+    "title": "Kitulgala",
+    "img": "img/alldestinations/kitulgala.jpg",
+    "category": "adventure",
+    "desc": "White-water rafting and adventure sports"
+  },
+  {
+    "title": "Jaffna",
+    "img": "img/alldestinations/jaffna.jpg",
+    "category": "northern",
+    "desc": "Northern culture & coastal beauty"
+  },
+  {
+    "title": "Kandy",
+    "img": "img/alldestinations/kandy.jpg",
+    "category": "cultural",
+    "desc": "Temple of the Tooth & cultural heart of Sri Lanka"
+  },
+  {
+    "title": "Sigiriya",
+    "img": "img/alldestinations/sigiriya.jpg",
+    "category": "cultural",
+    "desc": "Ancient rock fortress and UNESCO site"
+  },
+  {
+    "title": "Trincomalee",
+    "img": "img/alldestinations/trincomalee.jpg",
+    "category": "eastern beaches spiritual",
+    "desc": "Beautiful beaches & historical sites"
+  },
+  {
+    "title": "Pasikuda",
+    "img": "img/alldestinations/pasikuda.jpg",
+    "category": "eastern beaches",
+    "desc": "Stunning beaches & water sports"
+  },
+  { 
+    "title": "Arugam Bay",
+    "img": "img/alldestinations/arugambay.jpg",
+    "category": "eastern beaches",
+    "desc": "Surfing paradise & laid-back vibes"
+  },
+  {
+    "title": "Riverston",
+    "img": "img/alldestinations/riverston.jpg",
+    "category": "hillcountries adventure",
+    "desc": "Spice gardens & cultural heritage"
+  },
+  {
+    "title": "Pinnawala",
+    "img": "img/alldestinations/pinnawala.jpg",
+    "category": "wildlife spiritual adventure",
+    "desc": "Elephant orphanage & sanctuary"
+  },
+  {
+    "title": "Ella",
+    "img": "img/alldestinations/ella.jpg",
+    "category": "hillcountries adventure",
+    "desc": "Scenic views & tea plantations"
+  },
+  {
+    "title": "Horton Plains",
+    "img": "img/alldestinations/hortonplains.jpg",
+    "category": "hillcountries adventure",
+    "desc": "Breathtaking landscapes & wildlife"
+  },
+  {
+    "title": "Ella Rocks",
+    "img": "img/alldestinations/ellarock.jpg",
+    "category": "hillcountries adventure",
+    "desc": "Stunning views & hiking trails"
+  },
+  {
+    "title": "Adam's Peak",
+    "img": "img/alldestinations/adamspeak.jpg",
+    "category": "spiritual adventure",
+    "desc": "Spiritual pilgrimage & breathtaking views"
+  },
+  {
+    "title": "Wilpattu",
+    "img": "img/alldestinations/wilpattu.jpg",
+    "category": "wildlife adventure",
+    "desc": "Wildlife sanctuary & natural beauty"
+  },
+  {
+    "title": "Gal Oya",
+    "img": "img/alldestinations/galoya.jpg",
+    "category": "wildlife",
+    "desc": "National park & biodiversity hotspot"
+  },
+  {
+    "title": "Wasgamuwa",
+    "img": "img/alldestinations/wasgamuwa.jpg",
+    "category": "wildlife adventure",
+    "desc": "National park & wildlife sanctuary"
+  },
+  {
+    "title": "Maduruoya",
+    "img": "img/alldestinations/maduruoya.jpg",
+    "category": "wildlife",
+    "desc": "National park & wildlife sanctuary"
+  },
+  {
+    "title": "Unawatuna",
+    "img": "img/alldestinations/unawatuna.jpg",
+    "category": "beaches southern",
+    "desc": "Beautiful beach & vibrant nightlife"
+  },
+  {
+    "title": "Hikkaduwa",
+    "img": "img/alldestinations/hikkaduwa.jpg",
+    "category": "beaches southern",
+    "desc": "Beautiful beach & coral reefs"
+  },
+  {
+    "title": "Weligama",
+    "img": "img/alldestinations/weligama.jpg",
+    "category": "beaches southern",
+    "desc": "Beautiful beach & surfing hotspot"
+  },
+  {
+    "title": "Hiriketiya",
+    "img": "img/alldestinations/hiriketiya.jpg",
+    "category": "beaches southern",
+    "desc": "Beautiful beach & hidden gem"
+  },
+  {
+    "title": "Tangalle",
+    "img": "img/alldestinations/tangalle.jpg",
+    "category": "beaches southern",
+    "desc": "Beautiful beach & tranquil atmosphere"
+  },
+  {
+    "title": "Sinharaja",
+    "img": "img/alldestinations/sinharaja.jpg",
+    "category": "wildlife",
+    "desc": "Rainforest & biodiversity hotspot"
+  },
+  {
+    "title": "Mannar",
+    "img": "img/alldestinations/mannar.jpg",
+    "category": "beaches northern",
+    "desc": "Beautiful beaches & cultural heritage"
+  },
+  {
+    "title": "Kalpitiya",
+    "img": "img/alldestinations/kalpitiya.jpg",
+    "category": "beaches northern",
+    "desc": "Beautiful beaches & water sports"
+  },
+  {
+    "title": "Bentota",
+    "img": "img/alldestinations/bentota.jpg",
+    "category": "beaches",
+    "desc": "Beautiful beaches & water sports"
+  },
+  {
+    "title": "Balapitiya",
+    "img": "img/alldestinations/balapitiya.jpg",
+    "category": "beaches",
+    "desc": "Beautiful beaches & water sports"
+  },
+  {
+    "title": "Negambo",
+    "img": "img/alldestinations/negambo.jpg",
+    "category": "beaches",
+    "desc": "Beautiful beaches & water sports"
+  },
+  {
+    "title": "Knuckles",
+    "img": "img/alldestinations/knuckles.jpg",
+    "category": "hillcountries adventure",
+    "desc": "Beautiful mountains & trekking"
+  },
+  {
+    "title": "Panama",
+    "img": "img/alldestinations/panama.jpg",
+    "category": "beaches cultural",
+    "desc": "Beautiful beaches & cultural heritage"
+  },
+  {
+    "title": "Kumana",
+    "img": "img/alldestinations/kumana.jpg",
+    "category": "wildlife",
+    "desc": "Beautiful wildlife & nature"
+  },
+  {
+    "title": "Bundala",
+    "img": "img/alldestinations/bundala.jpg",
+    "category": "wildlife",
+    "desc": "Beautiful wildlife & nature"
+  },
+  {
+    "title": "Lunugamwehera",
+    "img": "img/alldestinations/lunugamwehera.jpg",
+    "category": "wildlife",
+    "desc": "Beautiful wildlife & nature"
+  },
+  {
+    "title": "Kataragama",
+    "img": "img/alldestinations/kataragama.jpg",
+    "category": "spiritual cultural",
+    "desc": "Beautiful spiritual site & nature"
+  },
+  {
+    "title": "Dambulla",
+    "img": "img/alldestinations/dambulla.jpg",
+    "category": "cultural",
+    "desc": "Beautiful cave temple & cultural heritage"
+  },
+  {
+    "title": "Ravana Falls",
+    "img": "img/alldestinations/ravanafalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Mandaram Nuwara",
+    "img": "img/alldestinations/mandaramnuwara.jpg",
+    "category": "hillcountries",
+    "desc": "Beautiful hill country & tea plantations"
+  },
+  {
+    "title": "Flying Ravana Zipline",
+    "img": "img/alldestinations/flyingravana.jpg",
+    "category": "adventure",
+    "desc": "Experience the thrill of ziplining in the beautiful landscapes of Sri Lanka"
+  },
+  {
+    "title": "Dunhinda Falls",
+    "img": "img/alldestinations/dunhindafalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Bambarakanda Falls",
+    "img": "img/alldestinations/bambarakandafalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Baker's Falls",
+    "img": "img/alldestinations/bakersfalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Lanka Falls",
+    "img": "img/alldestinations/lankafalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "St. Cleaires Falls",
+    "img": "img/alldestinations/stcleairesfalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Mohini Falls",
+    "img": "img/alldestinations/mohinifalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Elgini Falls",
+    "img": "img/alldestinations/elginifalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Diyaluma Falls",
+    "img": "img/alldestinations/diyalumaella.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Bomburu Falls",
+    "img": "img/alldestinations/bomburufalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Rathna Falls",
+    "img": "img/alldestinations/rathnafalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  },
+  {
+    "title": "Bopath Falls",
+    "img": "img/alldestinations/bopathfalls.jpg",
+    "category": "waterfalls hillcountries adventure",
+    "desc": "Beautiful waterfall, nature and cultural heritage"
+  }
+]

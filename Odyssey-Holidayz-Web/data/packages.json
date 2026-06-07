@@ -1,0 +1,1369 @@
+{
+  "wildlife": [ 
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "",
+      "idealFor": "",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "",
+      "idealFor": "",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            ""
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+
+  "adventure": [],
+
+  "standard": [
+    {
+      "image": "img/packages/packages/Cultural Triangle & Hill Country Highlights.jpg",
+      "title": "Cultural Triangle & Hill Country Highlights",
+      "idealFor": "Heritage and scenic beauty enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Depart Colombo",
+            "Visit Dambulla Cave Temple",
+            "Overnight in Sigiriya"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            " Climb Sigiriya Rock Fortress",
+            "Travel to Kandy",
+            "Explore Temple of the Tooth",
+            "Join with Cultural dance show",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Nuwaraeliya",
+            "Visit a tea plantation ",
+            "Explore Gregory Lake and Victoria Park",
+            "Water sports at gregory lake ",
+            "Overnight in Nuwaraeliya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Nanuoya to Kandy train ride",
+            "Return to colombo",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/South Coast Beaches & Wildlife Safari.jpg",
+      "title": "South Coast Beaches & Wildlife Safari",
+      "idealFor": "Beach lovers and wildlife enthusiastic",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Travel to Galle",
+            "Explore Galle Fort",
+            "Relax at Unawatuna Beach Overnight in Galle"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Unawatuna to Yala National Park Evening safari ",
+            "Overnight near Yala"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Mirissa ",
+            "Optional whale watching (seasonal)",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Return to Colombo via coastal route",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/Hill Country Adventure.jpg",
+      "title": "Hill Country Adventure",
+      "idealFor": "Nature lovers and adventure seekers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Depart Colombo",
+            "Visit Pinnawala Elephant Orphanage",
+            "Explore Kandy",
+            "Cultural dance kandy",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Scenic train ride to Ella",
+            "Visit Nine Arches Bridge Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Hike Little Adam's Peak",
+            "Visit Ravana Falls",
+            "Travel to Tangalle or Hiriketiya",
+            "Overnight in Tangalle or Hiriketiya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Turtle farm",
+            "Return to Colombo",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Cultural & Beach relaxation",
+      "idealFor": "Cultural seekers and beach lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Airport to Sigiriya",
+            "Climb Sigiriya Lion Rock",
+            "Evening Safari from Minneriya/Kaudulla NP",
+            "Overnight in Sigiriya/Habarana."
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Sigiriya to Kandy via Dambulla",
+            "Visit Dambulla Cave Temple",
+            "Visit spice garden in Matale",
+            "Visit a Ancient Village cooking program and Traditional sri lankan lunch",
+            "Visit Temple of the Tooth Relic Kandyan cultural show",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Kandy to Bentota via Balapitiya",
+            "Pinnawala Elephant Orphanage",
+            "Boat Safari from Madu river",
+            "Relax at the beach",
+            "Overnight in Bentota/Balapitiya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Bentota to Airport",
+            "Visit Turtle Hatchery or try water sports (jet ski, banana boat)",
+            "Colombo city tour & Shopping",
+            "Depart at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Beach Relaxation & Water Sports",
+      "idealFor": "Leisure travelers and water sports enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Travel to Bentota",
+            "Relax on the beach",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Engage in water sports (jet skiing, banana boat rides) Visit",
+            "Turtle Hatchery",
+            "Overnight in Balapitiya"
+          ] 
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Boat safari on Madu River",
+            "Visit Brief Garden",
+            "Overnight in Hikkaduwa"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Return to Colombo",
+            "City tour",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Spiritual Retreat & Wellness",
+      "idealFor": "Spiritual seekers and wellness enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Travel to Kandy",
+            "Visit Temple of the Tooth Ceremony",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Travel to Nuwara Eliya",
+            "Visit Seetha Amman Temple",
+            "Relax at a wellness retreat",
+            "Overnight in Nuwara Eliya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Yoga session",
+            "Visit Hakgala",
+            "Botanical Gardens",
+            "Overnight in Nuwara Eliya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Return to Colombo via scenic routes",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Fortresses, Temples & Tracks",
+      "idealFor": "History buffs and wildlife aficionados",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Travel to Habarana",
+            "Minneriya National Park Evening safari",
+            "Overnight in Habarana"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Visit Polonnaruwa archaeological site",
+            "Village Tour and Thalkote Lake Sunset Boat Ride",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Climb Sigiriya Rock Fortress",
+            "Visit Dambulla Cave Temple",
+            "Spice garden Matale",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Visit Temple of Tooth",
+            "Visit Royal Botanical Garden",
+            "Return to Colombo",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Coastal Relaxation",
+      "idealFor": "Beach lovers and cultural explorers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Travel to Bentota",
+            "Relax on the beach",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Engage in water sports",
+            "Visit Turtle Hatchery",
+            "Boat ride on Madu River",
+            "Overnight in Balapitiya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Galle",
+            "Explore Galle Fort",
+            "Proceed to Mirissa",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Whale watching tour (seasonal)",
+            "Relax on the beach",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Return to Colombo",
+            "City tour",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Cultural Triangle & Hill Country Tour",
+      "idealFor": "History and nature enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Explore Dambulla Cave Temple",
+            "Minneriya or Kaudulla NP safari",
+            "Overnight in Habarana"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Climb Sigiriya Rock Fortress Village safari experience & village lunch",
+            "Visit a spice garden",
+            "Explore Kandy city",
+            "Cultural dance show in Kandy",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Visit Temple of tooth",
+            "Travel to Nuwara Eliya via Ramboda Falls and tea plantations",
+            "Train Ride Nanuoya to Ella",
+            "Visit Little Adam's Peak",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Visit Ravana Falls",
+            "Proceed to Mirissa",
+            "Relax on the beach",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Return to Colombo",
+            "City tour including Gangaramaya Temple and Galle Face Green",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Wildlife & Beach Adventure",
+      "idealFor": "Wildlife lovers and beach lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Travel to Sigiriya",
+            "Village tour and traditional lunch",
+            "Visit Dambulla Cave Temple",
+            "Overnight in Sigiriya, Dambulla or Habarana"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Climb Sigiriya Rock Fortress",
+            "Evening Minneriya or Kaudulla NP safari",
+            "Overnight in Sigiriya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Trincomalee",
+            "Relax on the beach",
+            "Overnight near Trincomalee"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Travel to Wilpattu via Anuradhapura",
+            "Wilpattu NP evening safari",
+            "Overnight in Wipattu"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Travel to Colombo",
+            "Colombo city tour",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Hill Country Exploration",
+      "idealFor": "Nature enthusiasts and hikers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Travel to Kandy",
+            "Visit Royal Botanical garden",
+            "Visit Temple of the Sacred Tooth Relic",
+            "Cultural Dance",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Travel to Nuwara Eliya via tea plantations and waterfalls",
+            "Horton plains NP hike",
+            "Over night Nuwaraeliya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Ella",
+            "Train ride nanuoya to ella",
+            "Visit Nine Arch Bridge and Little Adam's Peak",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Travel to Udawalawa",
+            "Udawalawa Evening safari",
+            "Over night in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Morning relaxation at beach",
+            "Visit Turtle Hatchery",
+            "Return to Colombo",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Spiritual & Wellness Journey",
+      "idealFor": "Spiritual seekers and wellness enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Colombo city tour",
+            "Travel to Kandy",
+            "Cultural dance Kandy",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Visit Temple of tooth",
+            "Attend morning Puja ceremony",
+            "Travel to Dambulla",
+            "Visit Spice garden",
+            "Visit Dambulla cave temple",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Visit Sigiriya Lion Rock",
+            "Village tour & Traditional lunch",
+            "Minneriya or Kaudulla NP evening safari",
+            "Overnight in Habrana"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Yoga and meditation session",
+            "Visit a wellness retreat",
+            "Anuradhapura Explore ancient ruins",
+            "Overnight in Wilpattu"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Wilpattu NP Morning safari",
+            "Return to Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Adventure & Nature Trail",
+      "idealFor": "Adventure enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Travel to Kitulgala",
+            "White-water rafting",
+            "Overnight in Kitulgala"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Travel to Nuwaraeliya",
+            "Visit tea plantations and waterfalls",
+            "Overnight in Nuwaraeliya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Hike in Horton Plains National Park",
+            "Visit Gregory Lake",
+            "Overnight in Nuwaraeliya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Travel to Ella",
+            "Zip-lining and hiking activities",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Colombo city tour",
+            "Return to BIA Departure"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Cultural & Hill Country Explorer",
+      "idealFor": "History enthusiasts and nature lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Dambulla",
+            "Visit Dambulla Cave Temple",
+            "Minneriya or Kaudulla NP evening safari",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Morning explore Sigiriya Rock",
+            "Village tour",
+            "Explore Polonnaruwa archaeological city",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Kandy",
+            "Visit spice garden",
+            "Visit Temple of the Tooth Relic",
+            "Over night in Kandy"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Nuwara Eliya via Ramboda Falls and tea plantations",
+            "Visit Ambuluwawa Tower",
+            "Explore Gregory Lake and Hakgala Botanical Garden",
+            "Overnight in Nuwara Eliya"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Travel to Tangalle or Mirissa",
+            "Relax on the beach",
+            "Overnight in Tangalle or Mirissa"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Return to Colombo",
+            "City tour including Galle Face Green and shopping",
+            "Departure BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Southern Coast Adventure",
+      "idealFor": "Beach lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Kandy",
+            "Visit Temple of the Tooth Relic",
+            "Cultural dance show",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Transfer to Ella",
+            "En route visit Tea factory",
+            "Train Ride Nanuoya to Ella",
+            "Visit Ninearch Bridge",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Visit Little adm's peak",
+            "Transfer to Yala",
+            "Evening safari at Yala National Park",
+            "Overnight in Yala"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Unawatuna",
+            "Visit Galle fort",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Transfer to Bentota",
+            "Madu River boat safari",
+            "Visit Cinnamon Island and Turtle Hatchery in Kosgoda",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Transfer to Colombo",
+            "Colombo city tour",
+            "Shopping at Colombo",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Spiritual & Wellness Journey",
+      "idealFor": "Spiritual seekers and wellness enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Anuradhapura",
+            "Explore ancient ruins",
+            "Overnight in Anuradhapura"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Visit Mihintale and Aukana Buddha Statue",
+            "Transfer to Dambulla",
+            "Visit Dambulla Cave Temple",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Transfer to Kandy",
+            "Visit Temple of the Tooth Relic and attend evening Puja ceremony",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Yoga and meditation session",
+            "Visit a wellness retreat",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Transfer to Bentota",
+            "Relax on the beach",
+            "Optional spa treatments",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Return to Colombo",
+            "Colombo city tour & Shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Comprehensive Sri Lanka Experience",
+      "idealFor": "Travelers seeking a mix of culture, nature, and relaxation",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Galle",
+            "Madu river boat ride",
+            "Visit Turtle Hatchery",
+            "Visit Galle fort",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Transfer to Udawalawa",
+            "Visit Elephant transit home Udawalawa",
+            "Udawalawa NP Evening safari",
+            "Overnight in Udawalawa"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Travel to Nuwaraeliya",
+            "Visit Hakgala Botanical Garden",
+            "Explore Gregory lake and Victoria park",
+            "Overnight at Nuwaraeliya"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Kandy via Ramboda Falls",
+            "Visit Tea factory",
+            "Visit Ambuluwawa Tower",
+            "Visit Temple of the Tooth Relic",
+            "Culture dance show"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Transfer to Sigiriya",
+            "Visit spice garden",
+            "Visit Dambulla cave temple",
+            "Explore Sigiriya Rock Fortress",
+            "Overnight at Dambulla"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Return to Colombo",
+            "City tour including Galle Face Green and shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Cultural Triangle & Hill Country Discovery",
+      "idealFor": "History enthusiasts and nature lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Dambulla",
+            "Visit Dambulla Cave Temple",
+            "Minneriya or Kaudulla NP evening safari",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Explore Sigiriya Rock Fortress",
+            "Village Tour & Traditional lunch",
+            "Spice garden",
+            "Transfer to Kandy",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Visit Temple of the Sacred Tooth Relic",
+            "Explore Royal Botanical Garden",
+            "Cultural show in the evening",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Ella via Nuwaraeliya",
+            "Visit tea factory and Gregory lake",
+            "Scenic train ride to Nanuoya to Ella",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Visit Nine arch bridge and Little adm's peak",
+            "Visit Galle fort",
+            "Transfer to Unawatuna",
+            "Relax on the beach",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Transfer to Bentota",
+            "Madu River boat safari",
+            "Visit Turtle Hatchery",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Return to Colombo",
+            "City tour including Galle Face Green and shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Southern Coast & Colonial Charm",
+      "idealFor": "Beach lovers and history buffs",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Bentota",
+            "Madu River boat safari",
+            "Visit Turtle Hatchery",
+            "Overnight in Bentota"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Transfer to Galle",
+            "Explore Galle Fort",
+            "Visit local markets and art galleries",
+            "Relax on Unawatuna Beach",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Transfer to Mirissa",
+            "Whale watching tour (seasonal)",
+            "Visit Coconut tree hill",
+            "Relax on the beach",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Visit Weligama and Matara",
+            "Explore local temples",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Transfer to Yala NP",
+            "Evening safari at Yala NP",
+            "Overnight in Yala"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Transfer to Hikkaduwa",
+            "Relax on Hikkaduwa Beach",
+            "Optional Ayurvedic spa treatment",
+            "Overnight in Hikkaduwa"
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Return to Colombo",
+            "Colombo city tour and Shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/hillcountry.jpg",
+      "title": "Heritage & Coastal Relaxation",
+      "idealFor": "Cultural enthusiasts and beachgoers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Kandy",
+            "Giragama Tea factory visit",
+            "Visit Temple of tooth relic",
+            "Cultural dance show",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Transfer to Habarana",
+            "Visit Spice garden",
+            "Explore Dambulla Cave Temple",
+            "Minneriya or Kaudulla NP evening safari",
+            "Overnight in Habarana"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Visit Sigiriya Rock",
+            "Traditional village lunch & Village tour",
+            "Explore Polonnaruwa archaeological city",
+            "Overnight in Habarana"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Trincomalee",
+            "Relax on the beach",
+            "Overnight in Trincomalee"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Morning Dolphin & Whale watching",
+            "Visit Pigeon island NP & Snorkelling",
+            "Optional Scuba Diving",
+            "Overnight in Trincomalee"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Transfer to Colombo via Anuradhapura",
+            "Explore Anuradhapura ancient ruins",
+            "Overnight in Colombo "
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Colombo city tour and Shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/Heritage to Horizon.jpg",
+      "title": "Heritage to Horizon",
+      "idealFor": "Cultural & Nature lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Dambulla",
+            "Visit Dambulla Cave temple",
+            "Evening Safari from Minneriya/Kaudulla NP",
+            "Overnight in Habarana"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Visit Sigiriya Lion Rock",
+            "Village tour and Traditional sri lankan lunch",
+            "Sunset Boat Ride",
+            "Overnight in Dambulla"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Transfer to Arugambay",
+            "Relax on the beach",
+            "Overnight in Arugambay"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Beach activities",
+            "Visit Panama lagoon and Muhudu maha viharaya"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Transfer to Ella",
+            "Visit Ravana Falls and Ninearch Bridge",
+            "Little Adam's Peak visit evening",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Transfer to Kandy",
+            "Scenic Train ride Ella to Nanuoya",
+            "Visit to the Tea factory",
+            "Visit Temple of tooth",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Visit local market Kandy",
+            "Visit spice garden Kadugannawa",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/Cultural Heritage & Hill Country Highlights D8.jpg",
+      "title": "Cultural Heritage & Hill Country Highlights",
+      "idealFor": "History enthusiasts and nature lovers",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Dambulla",
+            "Visit Dambulla Cave Temple",
+            "Evening Safari from Minneriya/Kaudulla NP",
+            "Overnight in Habarana or Sigiriya"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Explore Sigiriya Rock Fortress",
+            "Village tour with traditional lunch",
+            "Sunset Boat ride",
+            "Overnight in Habarana or Sigiriya"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Transfer to Kandy",
+            "Visit Spice garden",
+            "Visit Temple of the Sacred Tooth Relic",
+            "Visit Kandy local market",
+            "Cultural show",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Transfer to Ella via Nuwaraeliya and tea plantations",
+            "Scenic Train Ride Nanuoya to Ella",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Visit Nine Arch Bridge and Little Adam's Peak",
+            "Transfer to Yala",
+            "Overnight in Yala"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Morning safari in Yala National Park",
+            "Transfer to Unawatuna",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Relax on the Beach",
+            "Visit Turtle Hatchery and Galle Fort",
+            "Overnight in Unawatuna"
+          ]
+        },
+        {
+          "day": "Day 8",
+          "activities": [
+            "Transfer to Colombo",
+            "Colombo city tour and Shopping",
+            "Departure at BIA"
+          ]
+        }
+      ]
+    },
+
+    {
+      "image": "img/packages/packages/Southern Coast Expedition & Wildlife Explore.jpg",
+      "title": "Southern Coast Expedition & Wildlife Explore",
+      "idealFor": "Beach lovers and wildlife enthusiasts",
+      "days": [
+        {
+          "day": "Day 1",
+          "activities": [
+            "Arrival in Colombo",
+            "Transfer to Mirissa via Galle",
+            "Explore Galle Fort",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "activities": [
+            "Whale watching tour (seasonal)",
+            "Visit Mirissa Beach",
+            "Relax on the beach",
+            "Overnight in Mirissa"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "activities": [
+            "Transfer to Yala",
+            "Evening safari in Yala NP",
+            "Overnight in Yala"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "activities": [
+            "Full Day Safari in Kumana NP",
+            "Overnight in Arugambay"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "activities": [
+            "Relax on Arugambay beach",
+            "Transfer to Ella",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "activities": [
+            "Explore Nine Arches Bridge and Little Adam's Peak",
+            "Overnight in Ella"
+          ]
+        },
+        {
+          "day": "Day 7",
+          "activities": [
+            "Scenic Train Ride Ella to Nanuoya",
+            "Visit tea plantations and Gregory Lake",
+            "Transfer to Kandy",
+            "Overnight in Kandy"
+          ]
+        },
+        {
+          "day": "Day 8",
+          "activities": [
+            "Visit Temple of the Sacred Tooth Relic",
+            "Shopping at Kandy Market",
+            "Return to Colombo",
+            "Departure BIA"
+          ]
+        }
+      ]
+    }
+  ]
+}

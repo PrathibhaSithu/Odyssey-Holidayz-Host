@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Odyssey Holidayz</title>
+        <link rel="icon" type="image/x-icon" href="./img/icons/Logo.png">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Odyssey Holidayz" name="keywords">
+        <meta content="Odyssey Holidayz" name="description">
+
+        <!-- Google Web Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@200;300;400;500;600&display=swap" rel="stylesheet"> 
+
+        <!-- Icon Font Stylesheet -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+        <!-- Libraries Stylesheet -->
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <!-- Spinner -->
+        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-secondary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">💕 Holidayz Loading... 💕</span>
+            </div>
+        </div>
+
+        <!-- Navbar -->
+        <div class="container-fluid nav-bar p-0">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white px-4 px-lg-5 py-3 py-lg-0">
+                <a href="" class="navbar-brand p-0">
+                    <img src="/Odyssey-Holidayz-Web/img/navbar/Logo.png" class="img-fluid" alt="Odyssey Holidayz">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto py-0">
+                        <a href="index.html" class="nav-item nav-link active">Home</a>
+                        <a href="index.html#homeabout" class="nav-item nav-link">About</a>
+                        <a href="index.html#odysseyservices" class="nav-item nav-link">Service</a>
+                        <a href="packagetest.html" class="nav-item nav-link">Packages</a>
+                        <a href="destinations.html" class="nav-item nav-link">Destinations</a>
+                        <a href="gallery.html" class="nav-item nav-link">Gallery</a>
+                        <!-- <a href="news.html" class="nav-item nav-link">News</a> -->
+                    </div>
+                    <a href="index.html#contactus" class="btn btn-primary border-secondary rounded-pill py-2 px-4 px-lg-3 mb-3 mb-md-3 mb-lg-0">Contact Us</a>
+                </div>
+            </nav> 
+        </div>
+
+        <!-- Home Top -->
+        <div class="carousel-header">
+            <div id="carouselId" class="carousel slide px-2" data-bs-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active"></li>
+                    <li data-bs-target="#carouselId" data-bs-slide-to="1"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <video class="img-fluid w-100" autoplay muted loop playsinline>
+                            <!-- <source src="img/home/vid1.mp4" type="video/mp4"> -->
+                            <source src="https://drive.google.com/file/d/1lEidL5Go_eZDJYRGie2GakeZxAB8X5gR/view?usp=sharing" type="video/mp4">
+                            Your browser does not support the video.
+                        </video>
+                        <div class="carousel-caption">
+                            <div class="text-center p-4" style="max-width: 900px;">
+                                <h4 class="text-white text-uppercase fw-bold mb-3 mb-md-4 wow fadeInUp" data-wow-delay="0.1s">Adventure, culture, and relaxation all in one island</h4>
+                                <h1 class="display-1 text-capitalize text-white mb-3 mb-md-4 wow fadeInUp" data-wow-delay="0.3s">ODYSSEY HOLIDAYZ</h1>
+                                <p class="text-white mb-4 mb-md-5 fs-5 wow fadeInUp" data-wow-delay="0.5s">
+                                    Whether you seek relaxation, adventure, or culture, our personalized tours ensure your holiday is truly yours.
+                                </p>
+                                <a class="btn btn-primary border-secondary rounded-pill text-white py-3 px-5 wow fadeInUp" data-wow-delay="0.7s" href="#homeabout">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <!-- <img src="img/home/img4.jpg" class="img-fluid" alt="Image"> -->
+                        <video class="img-fluid w-100 overflow-hidden" autoplay muted loop playsinline>
+                            <source src="https://drive.google.com/file/d/1xXekuz5SXd0-zbt3g1n9pvBj55rAWqwB/view?usp=sharing" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                        <div class="carousel-caption">
+                            <div class="text-center p-4" style="max-width: 900px;">
+                                <h5 class="text-white text-uppercase fw-bold mb-3 mb-md-4 wow fadeInUp" data-wow-delay="0.1s">From golden beaches to misty mountains... discover it all</h5>
+                                <h1 class="display-1 text-capitalize text-white mb-3 mb-md-4 wow fadeInUp" data-wow-delay="0.3s">ODYSSEY HOLIDAYZ</h1>
+                                <p class="text-white mb-4 mb-md-5 fs-5 wow fadeInUp" data-wow-delay="0.5s">
+                                    Let us turn your Sri Lankan adventure into a seamless, magical odyssey. Explore with Confidence 🤩 Explore with Us! 🥰 
+                                </p>
+                                <a class="btn btn-primary border-secondary rounded-pill text-white py-3 px-5 wow fadeInUp" data-wow-delay="0.7s" href="#homeabout">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon bg-secondary wow fadeInLeft" data-wow-delay="0.2s" aria-hidden="false"></span>
+                    <span class="visually-hidden-focusable">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                    <span class="carousel-control-next-icon bg-secondary wow fadeInRight" data-wow-delay="0.2s" aria-hidden="false"></span>
+                    <span class="visually-hidden-focusable">Next</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- About Start -->
+        <div class="container-fluid py-5 bg-custom" id="homeabout">
+            <div class="container py-5">
+                <div class="row g-5">
+                    <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0.1s">
+                        <div class="rounded bg-custom ">
+                            <img src="img/about/imgab.png" class="img-fluid w-100" style="margin-bottom: -7px;" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-xl-7 wow fadeInRight" data-wow-delay="0.3s">
+                        <h5 class="sub-title pe-3">About Odyssey Holidayz</h5>
+                        <h1 class="display-5 mb-4 ">More than a trip, it's an Odyssey.</h1>
+                        <p class="mb-4">
+                            Explore. Experience. Escape with Odyssey Holidayz. We believe travel is more than just visiting destinations it's about creating unforgettable stories. 
+                            We specialize in curating personalized tours that blend adventure, culture, and relaxation. 
+                            Whether you dream of exploring hidden gems, experiencing authentic traditions, or simply unwinding by golden beaches, we ensures every journey is crafted with care, comfort, and a touch of charm.
+                        </p>
+                        <div class="row gy-4 align-items-center">
+                            <div class="col-12 col-sm-6 d-flex align-items-center">
+                                <i class="fas fa-heart fa-3x text-secondary"></i>
+                                <h5 class="ms-4">Safety & comfort</h5>
+                            </div>
+                            <div class="col-12 col-sm-6 d-flex align-items-center">
+                                <i class="fas fa-compass fa-3x text-secondary"></i>
+                                <h5 class="ms-4">Authentic Local Experiences.</h5>
+                            </div>
+                            <div class="col-4 col-md-3">
+                                <div class="bg-light text-center rounded p-3">
+                                    <div class="mb-2">
+                                        <i class="fas fa-award fa-4x text-primary"></i>
+                                    </div>
+                                    <h1 class="display-5 fw-bold mb-2">10</h1>
+                                    <p class="text-muted mb-0">Years of Excellency</p>
+                                </div>
+                            </div>
+                            <div class="col-8 col-md-9">
+                                <div class="mb-5">
+                                    <p class="text-primary h6 mb-3"><i class="fa fa-check-circle text-secondary me-2"></i> 24/7 support during your trip</p>
+                                    <p class="text-primary h6 mb-3"><i class="fa fa-check-circle text-secondary me-2"></i> Guided tours across Sri Lanka</p>
+                                    <p class="text-primary h6 mb-3"><i class="fa fa-check-circle text-secondary me-2"></i> Affordable packages without compromising quality</p>
+                                </div>
+                                <div class="d-flex flex-wrap">
+                                    <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
+                                        <a href="" class="position-relative wow tada" data-wow-delay=".9s">
+                                            <i class="fa fa-phone-alt text-primary fa-3x"></i>
+                                            <div class="position-absolute" style="top: 0; left: 25px;">
+                                                <span><i class="fa fa-comment-dots text-secondary"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="d-flex flex-column justify-content-center">
+                                        <span class="text-primary">Ready to start your journey?</span>
+                                        <span class="text-secondary fw-bold fs-5" style="letter-spacing: 2px;">071 923 7680</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About End -->
+
+        <!-- Counter Services Start -->
+        <div class="container-fluid counter-facts py-5">
+            <div class="container py-5">
+                <div class="row g-4">
+                    <div class="col-12 col-sm-6 col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="counter">
+                            <div class="counter-icon">
+                                <i class="fas fa-suitcase-rolling"></i>
+                            </div>
+                            <div class="counter-content">
+                                <h3>Tour Packages Offered</h3>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <span class="counter-value" data-toggle="counter-up">25</span>
+                                    <h4 class="text-secondary mb-0" style="font-weight: 600; font-size: 25px;">+</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="counter">
+                            <div class="counter-icon">
+                                <i class="fas fa-map-marked-alt"></i>
+                            </div>
+                            <div class="counter-content">
+                                <h3>Destinations Covered</h3>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <span class="counter-value" data-toggle="counter-up">100</span>
+                                    <h4 class="text-secondary mb-0" style="font-weight: 600; font-size: 25px;">+</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="counter">
+                            <div class="counter-icon">
+                                <i class="fas fa-hiking"></i>
+                            </div>
+                            <div class="counter-content">
+                                <h3>Adventure Activities</h3>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <span class="counter-value" data-toggle="counter-up">20</span>
+                                    <h4 class="text-secondary mb-0" style="font-weight: 600; font-size: 25px;">+</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="counter">
+                            <div class="counter-icon">
+                                <i class="fas fa-smile-beam"></i>
+                            </div>
+                            <div class="counter-content">
+                                <h3>Customer Satisfaction Rate</h3>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <span class="counter-value" data-toggle="counter-up">98</span>
+                                    <h4 class="text-secondary mb-0" style="font-weight: 600; font-size: 25px;">%</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Counter Services End -->
+
+        <!-- Services Start -->
+        <div id="odysseyservices" class="container-fluid features overflow-hidden py-5">
+            <div class="container">
+                <div class="section-title text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="sub-style">
+                        <h5 class="sub-title text-primary px-3">Why Choose Us</h5>
+                    </div>
+                    <h1 class="display-5 mb-4">How Travel Made Easy with Odyssey Holidayz</h1>
+                    <p class="mb-0">
+                        Every traveler dreams differently some seek adventure, others relaxation, and many a mix of both. That's why our services are tailored to match your style of travel, ensuring every journey feels truly yours.
+                    </p>
+                </div>
+                <div class="row g-4 justify-content-center text-center">
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="feature-item text-center p-4">
+                            <div class="feature-icon p-3 mb-4">
+                                <i class="fas fa-suitcase-rolling fa-4x text-primary"></i>
+                            </div>
+                            <div class="feature-content d-flex flex-column">
+                                <h5 class="mb-3">Customized Tour Packages</h5>
+                                <p class="mb-3">Tailor-made tours designed to match your interests, budget, and schedule for the perfect journey.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="feature-item text-center p-4">
+                            <div class="feature-icon p-3 mb-4">
+                                <i class="fas fa-shuttle-van fa-4x text-primary"></i>
+                            </div>
+                            <div class="feature-content d-flex flex-column">
+                                <h5 class="mb-3">Transport & Airport Transfers</h5>
+                                <p class="mb-3">Comfortable and reliable transfers with private vehicles, ensuring smooth travel experience</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item text-center p-4">
+                            <div class="feature-icon p-3 mb-4">
+                                <i class="fas fa-hands-helping fa-4x text-primary"></i>
+                            </div>
+                            <div class="feature-content d-flex flex-column">
+                                <h5 class="mb-3">Friendly Support and Guidance</h5>
+                                <p class="mb-3">Our expert team is available 24/7 to guide, assist, and make your travel experience worry-free.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="feature-item text-center p-4">
+                            <div class="feature-icon p-3 mb-4">
+                                <i class="fas fa-hotel fa-4x text-primary"></i>
+                            </div>
+                            <div class="feature-content d-flex flex-column">
+                                <h5 class="mb-3">Hotel and Flight Booking</h5>
+                                <p class="mb-3">Enjoy stress-free holidays with hotel bookings tailored to your needs and optional flight arrangements if required.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Services End -->
+
+        <!-- Packages Start -->
+        <div class="container-fluid Packages overflow-hidden pt-5">
+            <div class="container py-5">
+                <div class="section-title text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="sub-style">
+                        <h5 class="sub-title text-primary px-3">Odyssey Holidayz</h5>
+                    </div>
+                    <h1 class="display-5 mb-4">Our Tour Packages</h1>
+                    <p class="mb-0">Choose from our handpicked packages or create your own custom journey with us</p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="Packages-item">
+                            <div class="Packages-inner">
+                                <div class="Packages-img">
+                                    <img src="img/packages/standard.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                </div>
+                                <div class="Packages-title">
+                                    <div class="Packages-title-name">
+                                        <div class="bg-primary text-center rounded p-3 mx-5 mb-4">
+                                            <a href="packages.html" class="h4 text-white mb-0">Standard Tour Package</a>
+                                        </div>
+                                        <a class="btn bg-light text-secondary rounded-pill py-3 px-5 mb-4" href="packages.html">Explore More</a>
+                                    </div>
+                                    <div class="Packages-content pb-4">
+                                        <a href="packages.html"><h4 class="text-white mb-4 py-3">Standard Tour Package</h4></a>
+                                        <div class="px-4">
+                                            <p class="mb-4">
+                                                Discover the essence of Sri Lanka with our Standard Tour Package, covering cultural highlights, scenic hill country, golden beaches, and vibrant cities – the perfect balance of relaxation and exploration.
+                                            </p>
+                                            <a class="btn btn-primary border-secondary rounded-pill py-3 px-5" href="packages.html">Explore More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="Packages-item">
+                            <div class="Packages-inner">
+                                <div class="Packages-img">
+                                    <img src="img/packages/hiking.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                </div>
+                                <div class="Packages-title">
+                                    <div class="Packages-title-name">
+                                        <div class="bg-primary text-center rounded p-3 mx-5 mb-4">
+                                            <a href="packages.html" class="h4 text-white mb-0">Trekking & Adventure Tour Packages</a>
+                                        </div>
+                                        <a class="btn bg-light text-secondary rounded-pill py-3 px-5 mb-4" href="packages.html">Explore More</a>
+                                    </div>
+                                    <div class="Packages-content pb-4">
+                                        <a href="packages.html"><h4 class="text-white mb-4 py-3">Trekking & Adventure Tour Packages</h4></a>
+                                        <div class="px-4">
+                                            <p class="mb-4">
+                                                Designed for thrill-seekers, this package takes you off the beaten path from hiking misty mountains and chasing waterfalls to white-water rafting and adrenaline-filled outdoor adventures.
+                                            </p>
+                                            <a class="btn btn-primary border-secondary rounded-pill text-white py-3 px-5" href="packages.html">Explore More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="Packages-item">
+                            <div class="Packages-inner">
+                                <div class="Packages-img">
+                                    <img src="img/packages/wildlife.jpg" class="img-fluid w-100 rounded" alt="Image">
+                                </div>
+                                <div class="Packages-title">
+                                    <div class="Packages-title-name">
+                                        <div class="bg-primary text-center rounded p-3 mx-5 mb-4">
+                                            <a href="packages.html" class="h4 text-white mb-0">Wildlife Tour Packages</a>
+                                        </div>
+                                        <a class="btn bg-light text-secondary rounded-pill py-3 px-5 mb-4" href="packages.html">Explore More</a>
+                                    </div>
+                                    <div class="Packages-content pb-4">
+                                        <a href="packages.html"><h4 class="text-white mb-4 py-3">Wildlife Tour Packages</h4></a>
+                                        <div class="px-4">
+                                            <p class="mb-4">
+                                                Experience the wild side of Sri Lanka with safaris in world-famous national parks, where elephants roam free, leopards lurk in the shadows, and exotic birds paint the skies.
+                                            </p>
+                                            <a class="btn btn-primary border-secondary rounded-pill text-white py-3 px-5" href="packagetest.html">Explore More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 mt-5 g-4 text-center">
+                    <a class="btn btn-primary border-secondary rounded-pill py-3 px-5 wow fadeInUp" data-wow-delay="0.1s" href="https://wa.me/94719237680">
+                        You also have the option to customize tour packages as you wish.
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- Packages End -->
+
+        <!-- Destinations -->
+        <div class="container-fluid destinations overflow-hidden py-5">
+            <div class="container">
+                <div class="section-title text-center wow fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 70px;">
+                    <div class="sub-style">
+                        <h5 class="sub-title text-primary px-3">Destinations</h5>
+                    </div>
+                    <h1 class="display-5 mb-4">Discover Beauty of Sri Lanka Through Us</h1>
+                    <p class="mb-0">
+                        Uncover Sri Lanka's treasures with Odyssey Holidayz from wildlife safaris to mountain escapes and heritage sites. Experience Sri Lanka's charm through carefully selected destinations that blend adventure, culture, and relaxation.
+                    </p>
+                </div>
+                <div class="row g-4 text-center">
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/culture.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/cultureIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Cultural Heritage</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/mountain.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/mountainIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Hill Country Escapes</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/beach.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/beachIcon.jpg" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Beaches & Coastal Getaways</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/wildlife.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/wildlifeIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Wildlife & National Parks</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 text-center mt-5">
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/adventure.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/adventureIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Adventure & Outdoor</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/north.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/northIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Northern Discoveries</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/south.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/southIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Southern Charms</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-3 mb-5 mb-xl-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="destinations-item">
+                            <div class="rounded overflow-hidden">
+                                <img src="img/destinations/spiritual.jpg" class="img-fluid w-100 rounded imgdestination" alt="Image">
+                            </div>
+                            <div class="destinations-flag">
+                                <img src="img/destinations/spiritualIcon.png" class="img-fluid rounded-circle" alt="Image">
+                            </div>
+                            <div class="destinations-name">
+                                <a href="destinations.html" class="text-white fs-4">Sacred & Spiritual</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-12">
+                        <a class="btn btn-primary border-secondary rounded-pill py-3 px-5 wow fadeInUp" data-wow-delay="0.1s" href="destinations.html">More Destinations</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Destinations We Offer End -->
+        
+        <!-- Gallery -->
+        <div class="container-fluid background-gallery py-5">
+            <div class="container">
+                <div class="section-title text-center wow fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 70px;">
+                    <div class="sub-style">
+                        <h5 class="sub-title text-primary px-3">Our Travel Moments</h5>
+                    </div>
+                    <h1 class="display-5 mb-4">Capturing Sri Lanka's Beauty With You</h1>
+                    <p class="mb-0">
+                        Explore our gallery filled with breathtaking landscapes, cultural wonders, and unforgettable adventures we've captured throughout our journeys. 
+                        Each photo tells a story of Sri Lanka's charm from ancient cities to pristine beaches and hidden gems.
+                    </p>
+                </div>
+
+                <div class="gallery-container">
+                    <div class="gallery-track">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                        <img src="img/contactimg.jpeg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-12 mt-5 g-4 text-center">
+                    <a class="btn btn-primary border-secondary rounded-pill py-3 px-5 wow fadeInUp" data-wow-delay="0.1s" href="gallery.html">More Memories</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Contact Us -->
+        <div id="contactus" class="container-fluid contact overflow-hidden ">
+            <div class="container py-5">
+                <div class="row g-5 mb-5">
+                    <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.1s">
+                        <div class="sub-style">
+                            <h5 class="sub-title text-primary pe-3">Contact Us 📞</h5>
+                        </div>
+                        <h1 class="display-5 mb-4">Have Questions? Don't Hesitate to Contact Us</h1>
+                        <p class="mb-5">
+                            Whether it's a quick question or a full tour plan, we're always happy to hear from you
+                        </p>
+                        <div class="d-flex border-bottom mb-4 pb-4">
+                            <i class="fas fa-map-marked-alt fa-4x text-primary bg-light p-3 rounded"></i>
+                            <div class="ps-3">
+                                <h5>Location</h5>
+                                <p>Colombo Sri Lanka </p>
+                            </div>
+                        </div>
+                        <div class="row g-3">
+                            <div class="col-xl-6">
+                                <div class="d-flex">
+                                    <i class="fas fa-phone-alt fa-3x text-primary"></i>
+                                    <div class="ps-3">
+                                        <h5 class="mb-3">Odyssey Contact</h5>
+                                        <div class="mb-3">
+                                            <h6 class="mb-0">Phone:</h6>
+                                            <a href="https://wa.me/94719237680" target="_blank" class="fs-5 text-primary">+94 071 923 7680</a>
+                                        </div>
+                                        <div class="mb-3">
+                                            <h6 class="mb-0">Email:</h6>
+                                            <!-- <a href="#" class="fs-5 text-primary">odysseyholidayzsl@gmail.com</a> -->
+                                            <a href="mailto:odysseyholidayzsl@gmail.com" class="fs-5 text-primary">
+                                                odysseyholidayzsl@gmail.com
+                                            </a> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+                                <div class="d-flex">
+                                    <i class="fas fa-clock fa-3x text-primary"></i>
+                                    <div class="ps-3">
+                                        <h5 class="mb-3">Opening Hrs</h5>
+                                        <div class="mb-3">
+                                            <h6 class="mb-0">Mon - Friday:</h6>
+                                            <a href="#" class="fs-5 text-primary">09.00 am to 08.00 pm</a>
+                                        </div>
+                                        <div class="mb-3">
+                                            <h6 class="mb-0">Satday:</h6>
+                                            <a href="#" class="fs-5 text-primary">10.00 am to 05.00 pm</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <h4 class="text-secondary mb-1">Reach Us</h4>
+                        <div class="d-flex align-items-center social-links">                            
+                            <a class="social-btn mx-1" href="#" target="_blank">
+                                <img src="img/icons/facebook.png" alt="Facebook">
+                            </a>
+                            <a class="social-btn mx-1" href="#" target="_blank">
+                                <img src="img/icons/insta.png" alt="Instagram">
+                            </a>
+                            <a class="social-btn mx-1" href="#" target="_blank">
+                                <img src="img/icons/tiktok.png" alt="Tiktok">
+                            </a>
+                            <a class="social-btn mx-1" href="#" target="_blank">
+                                <img src="img/icons/youtube.png" alt="YouTube">
+                            </a>
+                            <a class="social-btn mx-1" href="#" target="_blank">
+                                <img src="img/icons/whatsapp.png" alt="WhatsApp">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0.1s">
+                        <div class="rounded bg-custom ">
+                            <!-- <img src="img/srilanka.png" class="img-fluid w-150" style="margin-bottom: -7px;" alt="Image"> -->
+                            <img src="img/contactimg.jpeg" class="img-fluid custom-contactimg rounded imgdestination" style="max-width:150px; margin-bottom:-7px;" alt="Image"> 
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <div class="container-fluid footer py-5 wow fadeIn" data-wow-delay="0.2s">
+            <div class="container py-5">
+                <div class="row g-5">
+                    <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="text-secondary mb-4">Contact Info</h4>
+                            <a href=""><i class="fa fa-map-marker-alt me-2"></i> Colombo, Sri Lanka</a>
+                            <a href=""><i class="fas fa-envelope me-2"></i>odysseyholidayzsl@gmail.com</a>
+                            <a href=""><i class="fas fa-phone me-2"></i> +94 071 923 7680</a>
+                            <a href="https://wa.me/94719237680" class="mb-3"><i class="fab fa-whatsapp me-2"></i> +94 071 923 7680</a>
+                            <div class="d-flex align-items-center">
+                                <a class="btn mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-tiktok"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-youtube"></i></a>
+                                <a class="btn mx-1" href="https://wa.me/94719237680"><i class="fab fa-whatsapp"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="text-secondary mb-4">Opening Time</h4>
+                            <div class="mb-3">
+                                <h6 class="text-muted mb-0">Mon - Friday:</h6>
+                                <p class="text-white mb-0">09.00 am to 09.00 pm</p>
+                            </div>
+                            <div class="mb-3">
+                                <h6 class="text-muted mb-0">Satday:</h6>
+                                <p class="text-white mb-0">10.00 am to 05.00 pm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="text-secondary mb-4">Our Services</h4>
+                            <a href="#home" class=""><i class="fas fa-angle-right me-2"></i> Home</a>
+                            <a href="#aboutushome" class=""><i class="fas fa-angle-right me-2"></i> About</a>
+                            <a href="#odysseyservices" class=""><i class="fas fa-angle-right me-2"></i> Services</a>
+                            <a href="packages.html" class=""><i class="fas fa-angle-right me-2"></i> Packages</a>
+                            <a href="destinations.html" class=""><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                            <a href="news.html" class=""><i class="fas fa-angle-right me-2"></i> News</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item">
+                            <h4 class="text-secondary mb-4">Reach Us</h4>
+                            <div class="d-flex align-items-center">
+                                <a class="btn mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-tiktok"></i></a>
+                                <a class="btn mx-1" href=""><i class="fab fa-youtube"></i></a>
+                                <a class="btn mx-1" href="https://wa.me/94719237680"><i class="fab fa-whatsapp"></i></a>
+                            </div>
+                            <div class="position-relative mx-auto rounded-pill">
+                                <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="odysseyholidayzsl@gmail.com">
+                                <!-- <button type="button" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">Email</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End -->
+
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-primary btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
+
+        
+    <!-- JavaScript Libraries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+    </body>
+
+</html>
